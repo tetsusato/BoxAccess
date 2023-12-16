@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "w0aznqu8x3q8qy1agztfvd5j653ma141",
+    "clientSecret": "jnWGhqCYVUrYJU40WIQciLszEo7HyeqC",
+    "appAuth": {
+      "publicKeyID": "vab4zpac",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQImvSKgs4sixwCAggA\nMBQGCCqGSIb3DQMHBAiAfSLgXSsizASCBMinr0P8vW0jQBfbXBSOvpbybpo/q4o2\nidsT/bbgfAXw6KM9l1qC8D5JqCle4G/tOw7JosKOeru5Lur1s/kjxB8hmL5Z0xIr\nmCp8O1lVDojOIx4HWjqr+fjSCijw/Kg/MYqz8ys7S7hruGI11mei6gsHFd8p2Hhx\n7nv4zIq3VXUXp6CiG1na79/DDSxmlBjtQx4RfA+MJskm36Ig8Ygg4ZjTXZ+B026l\nTNy+WJJDEUQvOZQxp/iukfnCfu4AUQIfF5aNKmvKu/nscbFSfiXKmF1jgnoMtbhJ\n4senivDnRs+YAKc7z46bVHlZV01p0cpj1hguRONHgAmg7eO0QQWzIK8S6MhQG4lv\nEETIJQuDzHby0DibP8VNzyASZyIkl6Hj3qdHBvflQm68488hf1XgUVSl1eFnYwEr\ngzomElz1zlyD6F/rTus80cLdX4u3QxpDHR5tmD8xY6AHuvsUIGw75HuatGjG/mPQ\nly6gvBqsQJZSsbbIdj5McXaWgQlAacbPPR1qu3dZDmHCRxXGXyVlVjmi/0fggacy\nk/pW+oj8kCY8UNj53IdHw1UV4zTmf/8EGLr1/Cl1lOOJ6kZrGT8fiIf1if+0aJLV\nbIYqNvoIA2ChI6pkN3yzvL+DkNajIzl6qQ6qc9UMZYsV9+UzELoOekPKhj9TmkZq\n2qMsqLGdGdt5bdkWz3IHsnnSnbWDfjce/4ATeadk9K5E5VuWCm+8nUJIDWMm4vE4\nOVC6Qi+NW/LB+Un5s0ehnSpGpQahaWPRl9+3uoDWaH8XGWu+GIUgYkyDQQEokX6y\nejbLQi1FxTyOaMO2Hpz5jB0xZV8dUdkxkh2zdm25897ErRCddCezHBHa8TmlSU3S\n8088Iml40BP9qwgRPvhSKoOzn0JjKmMRKS7wHVX53SsOuwA/iVGv5jCXVrkaER4C\nIhf8UPZYGjHR/ApflSCZQJnVolwjxm8hGxapv1peiy8l1PEEX2tG7TyCJ1brdXw+\nZ+BkZ4ieNc5imhh3IYYHUNpQsADXqlcqW6gwFWOrJPTP3r/9kOfCprvG+gKzVsib\nIEMvZmGyJn8TngvfPhOipNHPFpy4lW9CsUSR458t0QNyNrlVGZPdynfXc9U4SYZw\njZQB0LROOoZKHcXvAWUeuYxWGb5o1vNr5nVimwkBcHzbkpj+Z70qFpvW5014fJTL\narpfj/O9it6GOMbwoaliv8cr/9VV7HZdZCjjZxqtvhnffLnoPv2Fa3QaDB9l3O5F\nuJlFgP09OOldnsyx3GyzLzBfH18/o2vG3L3FHzvPY4ZR8abIBExyo0lnZ4VO+98N\nEjRrHdlU/Sbk0EmFa5nuzw8T52d88FhG56ygQwsmEb+UL7WINZomCBj9DCWKdHjf\n5KX25JrbJC6FF5kWpccB2pUdigPZ3zTgfeVQq/82GNujpXEanjYzT3HnHv9keoAD\n0s13GvgL7dm2jTfN+1oxwXhavRVqKdpekOkVIOaFByibDdeNJb9ahrEy+pr0crxl\n2N4E8Hww+HCZXYXVVDCXWvk8jcXfi/vjv4jIuzMDRf2yflrxrpjuW+5mTSZnZZ+s\nUfrhOn1ZOBpadMwoiMNB3o3w7u7nmlqz1rsIm9IZlgVj99ydCZCsoqDM9kQTeFMU\nDPs=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "09b29b158a37e19b84b2a508dfb120fa"
+    }
+  },
+  "enterpriseID": "791844926"
+}

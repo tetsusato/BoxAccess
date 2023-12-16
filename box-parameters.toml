@@ -1,0 +1,35 @@
+service_name = "cognitive-search-pca-knowledgecenter"
+# PCA Azure Cognitive Search (PROD)
+subscription_id = "b0b77a5c-f560-490b-8bd2-8939fd42737c"
+resource_group_name = "rg-pca-knowledgecenter"
+
+
+admin_key = "3C813E200A790B1CD85E8C9F6CFF585F"
+storage_key = "9E37cBXDNR9uZD9ZJoS2/WnSV19zx3egzrjKiy7YPpolyWEhs+L643T3cQ/PK8ucl2pORutxIT+3wpj8MwAUyg=="
+cognitive_service_key = "ce4145c97e7043dba1a8138bc279903a"
+storage_connection_string = "DefaultEndpointsProtocol=https;AccountName=knowledgecenterstorage;AccountKey=9E37cBXDNR9uZD9ZJoS2/WnSV19zx3egzrjKiy7YPpolyWEhs+L643T3cQ/PK8ucl2pORutxIT+3wpj8MwAUyg==;EndpointSuffix=core.windows.net"
+storage_account_name = "knowledgecenterstorage"
+index_file_name = "src/main/resources/blobindex.template"
+indexer_file_name = "src/main/resources/blobindexer.template"
+skillset_file_name = "src/main/resources/blobskillsets.template"
+
+
+#datasource_name = ["knowledgecenter-cmp-datasource", "knowledgecenter-sec-datasource"]
+datasource_name = ["knowledgecenter-box-datasource"]
+
+#datasource_type = ["azureblob", "sharepoint"]
+datasource_type = ["azureblob"]
+
+#storage_container_name = ["knowledgecenter-cmp-container", "knowledgecenter-sec-container"]
+storage_container_name = ["knowledgecenter-box-container"]
+
+#index_name = ["knowledgecenter-cmp-index", "knowledgecenter-sec-index"]
+index_name = ["knowledgecenter-box-index"]
+
+skillset_name = "knowledgecenter-skillset"
+
+#indexer_name = ["knowledgecenter-cmp-indexer", "knowledgecenter-sec-indexer"]
+indexer_name = ["knowledgecenter-box-indexer"]
+
+search_top = 10
+results_per_page = 5
